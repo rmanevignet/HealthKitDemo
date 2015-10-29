@@ -6,6 +6,7 @@
 //  Copyright (c) 2015 Rahul Mane. All rights reserved.
 //
 
+// Just want to undertsand
 #import "AppDelegate.h"
 
 @interface AppDelegate ()
